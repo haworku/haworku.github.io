@@ -1,0 +1,32 @@
+.social-icon {
+  background-color: red;
+  font-size: 3rem;
+  align-items: center;
+  background: none;
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin: 1px;
+  transition: 0.3s;
+}
+
+.social-icon:first-of-type {
+  margin-left: 0;
+}
+
+.nav-link {
+  color: white;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+a.nav-link:hover,
+.nav-link-active {
+  text-decoration: underline;
+}
+
+.nav-link:first-of-type {
+  margin-left: 1.5rem;
+}

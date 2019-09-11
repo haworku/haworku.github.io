@@ -1,3 +1,5 @@
+See what you can query with http://localhost:8000/___graphql.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
